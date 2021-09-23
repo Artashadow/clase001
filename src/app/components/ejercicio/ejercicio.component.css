@@ -1,0 +1,23 @@
+.caja {
+    padding: 8px;
+    border-radius: 1%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #487e13;
+    text-align: center;
+}
+
+.caja2 {
+    display: flex;
+    justify-content: center;    
+}
+
+.caja3 {
+    padding: 8px;
+    border-radius: 1%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #487e13;
+    text-align: center;
+    width: 550px;
+}
